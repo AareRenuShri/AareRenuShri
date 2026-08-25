@@ -45,17 +45,15 @@
 </div>
 
 <br/>
-
 <div align="center">
-### 📊 GitHub Analytics
 
-<img src="https://streak-stats.demolab.com/?user=AareRenuShri&hide_border=true&background=00000000&ring=F7C6C7&fire=F7C6C7&currStreakLabel=F7C6C7&sideLabels=F5B7C4&currStreakNum=F5B7C4&sideNums=F5B7C4&dates=F5B7C4" width="48%" />
+<h3>📊 GitHub Analytics</h3>
+
+<img src="https://streak-stats.demolab.com/?user=AareRenuShri&hide_border=true&background=00000000&ring=F7C6C7&fire=F7C6C7&currStreakLabel=F7C6C7&sideLabels=F5B7C4&currStreakNum=F5B7C4&sideNums=F5B7C4&dates=F5B7C4" width="70%" />
 
 <br/><br/>
 
-### 🌷 Contribution Graph
-
-<div align="center">
+<h3>🌷 Contribution Graph</h3>
 
 <img
   src="https://github.pumbas.net/api/contributions/AareRenuShri?colour=F7C6C7&bgColour=transparent&dotColour=F5B7C4"
