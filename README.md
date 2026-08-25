@@ -22,6 +22,10 @@
 
 <br/>
 
+</div>
+
+<br/>
+
 ### 🌸 About Me
 
 - 💻 B.Tech CSE student at IIT Hyderabad, building things that sit somewhere between systems, ML, and the web
