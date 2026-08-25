@@ -60,7 +60,7 @@
 <div align="center">
 
 <img
-  src="https://ghchart.rshah.org/F7C6C7/AareRenuShri"
+  src="https://github.pumbas.net/api/contributions/AareRenuShri?colour=F7C6C7&bgColour=transparent&dotColour=F5B7C4"
   alt="Aare Renu Shri's GitHub Contribution Graph"
   width="90%"
 />
