@@ -55,13 +55,18 @@
 <img src="https://streak-stats.demolab.com/?user=AareRenuShri&hide_border=true&background=00000000&ring=F7C6C7&fire=F7C6C7&currStreakLabel=F7C6C7&sideLabels=F5B7C4&currStreakNum=F5B7C4&sideNums=F5B7C4&dates=F5B7C4" width="48%" />
 
 <br/><br/>
-
 ### 🌷 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AareRenuShri&bg_color=00000000&color=F5B7C4&line=F7C6C7&point=F7C6C7&hide_border=true&area=true" width="90%" />
+<div align="center">
+
+<img
+  src="https://ghchart.rshah.org/F7C6C7/AareRenuShri"
+  alt="Aare Renu Shri's GitHub Contribution Graph"
+  width="90%"
+/>
+
+</div>
 
 <br/><br/>
 
 *See you in the next commit* 🌸
-
-</div>
