@@ -1,7 +1,7 @@
 <div align="center">
-<img src="./assets/portrait.svg" width="220" style="border-radius: 12px;" alt="Aare Renu Shri"/>
+<img src="./assets/portrait.svg" width="320" style="border-radius: 12px;" alt="Aare Renu Shri"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&weight=600&size=40&pause=1200&color=F7C6C7&center=true&vCenter=true&width=420&height=70&lines=Hi%2C+I'm+Aare+Renu+Shri" alt="Hi, I'm Aare Renu Shri"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&weight=600&size=32&pause=1200&color=F7C6C7&center=true&vCenter=true&width=420&height=60&lines=Hi%2C+I'm+Aare+Renu+Shri" alt="Hi, I'm Aare Renu Shri"/>
 </div>
 <div align="center">
 
