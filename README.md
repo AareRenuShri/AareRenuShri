@@ -9,14 +9,13 @@
 </div>
 
 <div align="center">
-
-### 💌 Let's Connect
+<div align="center">
 
 <a href="https://www.linkedin.com/in/renu-shri-206814327/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-F7C6C7?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <img src="https://img.shields.io/badge/LinkedIn-F7C6C7?style=for-the-badge&logo=linkedin&logoColor=white" width="145" />
+</a>&nbsp;&nbsp;
 <a href="mailto:cs24btech11001@iith.ac.in">
-  <img src="https://img.shields.io/badge/Email-F5B7C4?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-F5B7C4?style=for-the-badge&logo=gmail&logoColor=white" width="125" />
 </a>
 
 </div>
