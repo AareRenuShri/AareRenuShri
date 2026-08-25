@@ -1,6 +1,4 @@
-<div align="center"> <table> <tr> <td width="45%" align="center"> <img src="./assets/profile_reveal.gif" width="220" alt="Aare Renu Shri"/> </td> <td width="55%" align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&weight=600&size=38&pause=1200&color=F7C6C7&center=true&vCenter=true&width=480&height=90&lines=Hi%2C+I'm+Aare+Renu+Shri" alt="Hi, I'm Aare Renu Shri"/> </td> </tr> </table> </div> <br/>
-
-<br/>
+<div align="center"> <table border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;"> <tr> <td width="40%" align="center" style="border:none;"> <img src="./assets/profile_reveal.gif" width="300" alt="Aare Renu Shri"/> </td> <td width="60%" align="center" style="border:none;"> <img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&weight=600&size=34&pause=1200&color=F7C6C7&center=true&vCenter=true&width=400&height=55&lines=Hi%2C+I'm" alt="Hi, I'm"/> <br/> <img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&weight=600&size=46&pause=1200&color=F7C6C7&center=true&vCenter=true&width=420&height=75&lines=Aare+Renu+Shri" alt="Aare Renu Shri"/> </td> </tr> </table> </div> <br/>
 
 ### 🌸 About Me
 
