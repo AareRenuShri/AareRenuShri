@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile_reveal.gif" width="300" alt="Aare Renu Shri"/>
+<img src="./assets/portrait.svg" width="300" alt="Aare Renu Shri"/>
 
 <br/>
 
