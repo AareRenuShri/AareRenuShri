@@ -47,14 +47,12 @@
 <br/>
 
 <div align="center">
-
 ### 📊 GitHub Analytics
-
-<img src="https://github-readme-stats.vercel.app/api?username=AareRenuShri&show_icons=true&hide_border=true&bg_color=00000000&title_color=F7C6C7&icon_color=F7C6C7&text_color=F5B7C4&hide_title=true&cache_seconds=86400" width="48%" />
 
 <img src="https://streak-stats.demolab.com/?user=AareRenuShri&hide_border=true&background=00000000&ring=F7C6C7&fire=F7C6C7&currStreakLabel=F7C6C7&sideLabels=F5B7C4&currStreakNum=F5B7C4&sideNums=F5B7C4&dates=F5B7C4" width="48%" />
 
 <br/><br/>
+
 ### 🌷 Contribution Graph
 
 <div align="center">
@@ -66,7 +64,3 @@
 />
 
 </div>
-
-<br/><br/>
-
-*See you in the next commit* 🌸
