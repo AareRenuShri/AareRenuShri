@@ -1,4 +1,14 @@
-<div align="center"> <img src="./assets/profile_reveal.gif" width="300" align="left" alt="Aare Renu Shri"/> <img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&weight=600&size=38&pause=1200&color=F7C6C7&center=true&vCenter=true&width=480&height=90&lines=Hi%2C+I'm+Aare+Renu+Shri" alt="Hi, I'm Aare Renu Shri"/> <br clear="both"/> </div> </div> <br/>
+<div align="center"> <img src="./assets/profile_reveal.gif" width="300" alt="Aare Renu Shri"/> <br/> <img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&weight=600&size=48&pause=1200&color=F7C6C7&center=true&vCenter=true&width=550&height=100&lines=Hi%2C+I'm+Aare+Renu+Shri" alt="Hi, I'm Aare Renu Shri"/> </div> </div> <br/>
+### Let's Connect
+
+<a href="https://www.linkedin.com/in/renu-shri-206814327/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-F7C6C7?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:cs24btech11001@iith.ac.in">
+  <img src="https://img.shields.io/badge/Email-F5B7C4?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
 
 ### 🌸 About Me
 
@@ -36,16 +46,6 @@
 
 <br/><br/>
 
-### 💌 Let's Connect
-
-<a href="https://www.linkedin.com/in/renu-shri-206814327/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-F7C6C7?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:cs24btech11001@iith.ac.in">
-  <img src="https://img.shields.io/badge/Email-F5B7C4?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
 
 *See you in the next commit* 🌸
 
